@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0C848B4A1DB522B500FCAC4E"
-               BuildableName = "Week1_Flicks.app"
-               BlueprintName = "Week1_Flicks"
-               ReferencedContainer = "container:Week1_Flicks.xcodeproj">
+               BlueprintIdentifier = "6CD5D55B8F36775C5C67B4EC8ADEE889"
+               BuildableName = "Pods_Week1_Flicks.framework"
+               BlueprintName = "Pods-Week1_Flicks"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C848B4A1DB522B500FCAC4E"
-            BuildableName = "Week1_Flicks.app"
-            BlueprintName = "Week1_Flicks"
-            ReferencedContainer = "container:Week1_Flicks.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C848B4A1DB522B500FCAC4E"
-            BuildableName = "Week1_Flicks.app"
-            BlueprintName = "Week1_Flicks"
-            ReferencedContainer = "container:Week1_Flicks.xcodeproj">
+            BlueprintIdentifier = "6CD5D55B8F36775C5C67B4EC8ADEE889"
+            BuildableName = "Pods_Week1_Flicks.framework"
+            BlueprintName = "Pods-Week1_Flicks"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0C848B4A1DB522B500FCAC4E"
-            BuildableName = "Week1_Flicks.app"
-            BlueprintName = "Week1_Flicks"
-            ReferencedContainer = "container:Week1_Flicks.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
